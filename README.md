@@ -3,6 +3,8 @@ Open hardware STM32H743 drone flight controller designed in KiCad.
 LEVIA H7 is a six-layer flight controller built around the STM32H743, developed as an open hardware platform for multirotor, fixed-wing and experimental UAV applications.
 The repository includes the complete editable KiCad design files, schematics, PCB layout, 3D model, bill of materials and manufacturing files.
 
+<img width="526" height="394" alt="Screenshot 2026-08-02 at 10 18 24" src="https://github.com/user-attachments/assets/5e54d29e-be45-4309-aa28-4e7b960a2ce0" />
+
 ![Front](https://github.com/piecol/LEVIA-H7/blob/main/plots/1.png)
 ![Back](https://github.com/piecol/LEVIA-H7/blob/main/plots/2.png)
 ![Layers](https://github.com/piecol/LEVIA-H7/blob/main/plots/levia_h7_layers.png)
